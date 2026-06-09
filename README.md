@@ -12,7 +12,6 @@ Im a 2nd Year CS and Biosciences Student at IIITD.<br>Interested in learning abo
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruv190712&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **Dhruv190712/Dhruv190712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
