@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a 2nd Year CS and Biosciences Student at IIITD.<br>Interested in learning about Ml and DS.
+Im a 3rd Year CS and Biosciences Student at IIITD.<br>Interested in learning about Ml and DS.
 
 
 # 💻 Tech Stack:
